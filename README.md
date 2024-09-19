@@ -15,7 +15,7 @@ Imagine an early-career engineer on your team proposes this code as a ***prototy
 3. Push your local clone up to your private repository while preserving history.
 4. Create a pull request in your private repo to merge the `feature-art-search` branch into the `main` branch.
 5. Add a review of the code, pointing out everything you see could be improved with explanations.
-6. Share your private repo with `jeromedane` (or the reviewer(s) requested when you were sent this challenge)
+6. Share your private repo with the reviewer(s) requested when you were sent this challenge
 
 ### Details
 
