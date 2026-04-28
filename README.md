@@ -6,6 +6,10 @@ This is a sample repo containing some code to be reviewed by candidates as part 
 
 Imagine an early-career engineer on your team proposes this code as a ***prototype*** for your new art search application. It technically meets the product requirements, but the code has ***lots*** of room for improvement. You have plenty of time to rework things, so you can use this code review to asychronously guide and educate your colleague. 
 
+This is intentionally not a normal production PR review. Please be more exhaustive than you would be on a typical team PR. We are evaluating how many meaningful issues you can identify, how clearly you explain tradeoffs, and how concretely you suggest improvements. Include both inline comments and an overall review summary. Use GitHub suggested changes where helpful.
+
+Do not limit yourself to blocking issues. Treat this as a coaching review for a junior engineer with time available for a deeper rewrite.
+
 **Do not worry about hurting anyone's feelings.** This is a tough engineer that's hungry to learn and is eager for criticism.
 
 ## Instructions
