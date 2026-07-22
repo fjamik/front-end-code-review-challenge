@@ -1,3 +1,7 @@
+/* Note: This CSS module is scaffolded but completely unused. Components use inline styles instead,
+   which are recreated every render and make visual consistency hard to maintain as the app grows. */
+
+
 .main {
   display: flex;
   flex-direction: column;
