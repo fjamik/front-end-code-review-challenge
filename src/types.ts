@@ -14,6 +14,8 @@ export interface ImageType {
     artist_display: string
 }
 
+// 'Response' shadows the DOM's built-in Response type (return type of fetch()).
+// Consider renaming to ArtworkSearchResponse or ApiResponse to avoid confusion in autocomplete.
 export interface Response {
     pagination: Pagination;
     data: ImageType[];
